@@ -18,7 +18,7 @@ function AddTodo() {
 
   return (
     <div>
-      <h1>TODO APPLICATION</h1>
+      <h1>HELLO WORLD</h1>
       <input
         onChange={e => {
           setItem(e.target.value);
